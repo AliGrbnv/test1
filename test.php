@@ -1,1 +1,1 @@
-test `whoami`; whoami; curl google.com
+test `whoami`; whoami; curl google.com | curl google.com
